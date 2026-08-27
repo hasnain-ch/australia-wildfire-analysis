@@ -19,4 +19,4 @@ An in-depth data analysis project analyzing historical wildfire activities acros
 ##  How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/hasnain-ch/australia-wildfire-analysis.git](https://github.com/hasnain-ch/australia-wildfire-analysis.git)
+   git clone https://github.com/hasnain-ch/australia-wildfire-analysis.git
